@@ -1,0 +1,12 @@
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.log
+**/.vs/
+**/.idea/
+**/.cache/
+*.db
+*.sqlite
+*.msbuild*
